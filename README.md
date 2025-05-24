@@ -25,7 +25,7 @@
 <strong>Personal Portfolio</strong> <a href="https://mayank-kumar-portfolio.vercel.app/">https://mayank-kumar-portfolio.vercel.app/</a>
 
 ### Featured Projects:
-- 🚑 Disaster Response Training Tool - A tool to train volunteers for disaster management
+- 🚑 Disaster Response Training Tool - A tool to train volunteers for disaster management  <a href="https://disaster-response-traning-tool.vercel.app/">https://disaster-response-traning-tool.vercel.app/</a>
 - 🌐 Educational Mathematics Calculator - Chapter-specific computational tool for quick and focused problem-solving
 
 <img src="https://github.com/mayank-kumar-27/mayank-kumar-27/blob/main/Assets/Border2.gif" alt="Border2" width="1100">
@@ -66,7 +66,7 @@
 
 <div align="center">
 <a href="<a href="mailto:mayankkumar.27062007@gmail.com">
-  <img src="https://github.com/mayank-kumar-27/mayank-kumar-27/blob/main/Assets/Gmail.png" alt="Gmail" width="100"px/>
+  <img src="https://github.com/mayank-kumar-27/mayank-kumar-27/blob/main/Assets/Gmail.png" alt="Gmail" width="90"px/>
 </a>
 <a href="https://www.linkedin.com/in/kumarmayankupes" target="_blank" rel="noopener noreferrer">
   <img src="https://github.com/mayank-kumar-27/mayank-kumar-27/blob/main/Assets/Linkedin.gif" alt="LinkedIn" width="100"px/>
