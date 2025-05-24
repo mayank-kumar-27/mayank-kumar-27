@@ -1,7 +1,7 @@
 <div align="center">
     <img src="https://github.com/mayank-kumar-27/mayank-kumar-27/blob/main/Assets/Banner.gif" alt="GitHub Banner"/>
   </div>
-<h1 align="center">Hi <img src="https://github.com/mayank-kumar-27/mayank-kumar-27/blob/main/Assets/Hi.gif" alt="Banner" width="30">, I am Mayank Kumar <img src="https://github.com/mayank-kumar-27/mayank-kumar-27/blob/main/Assets/name.gif" alt=""></h1>
+<h1 align="center">Hi <img src="https://github.com/mayank-kumar-27/mayank-kumar-27/blob/main/Assets/Hi.gif" alt="Banner" width="30">, I am Mayank Kumar <img src="https://github.com/mayank-kumar-27/mayank-kumar-27/blob/main/Assets/name.gif" alt="name" width="60px"></h1>
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=2E97CB&center=true&vCenter=true&random=false&width=600&height=100&lines=Computer+Science+Student;Passionate+Programmer;Problem+Solver;Aspiring+Developer" alt="Typing SVG" />
 </div>
