@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="" alt="GitHub Banner"/>
+    <img src="https://github.com/mayank-kumar-27/mayank-kumar-27/blob/main/Assets/Banner.gif" alt="GitHub Banner"/>
   </div>
 # <div align="center">👨‍💻 Mayank Kumar</div>
 
