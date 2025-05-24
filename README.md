@@ -28,6 +28,8 @@
 - 🚑 Disaster Response Training Tool - A tool to train volunteers for disaster management
 - 🌐 Educational Mathematics Calculator - Chapter-specific computational tool for quick and focused problem-solving
 
+<img src="https://github.com/mayank-kumar-27/mayank-kumar-27/blob/main/Assets/Border2.gif" alt="Border2" width="1100">
+
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -45,6 +47,8 @@
 
 </div>
 
+<img src="https://github.com/mayank-kumar-27/mayank-kumar-27/blob/main/Assets/Border2.gif" alt="Border2" width="1100">
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -56,22 +60,20 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="streak stats" />
 </div>
 
-## 🧠 Current Focus
-
-- 📚 Following a structured DSA roadmap
-- 🌱 Deep diving into Coding
-- 💻 Learning Data Science fundamentals
+<img src="https://github.com/mayank-kumar-27/mayank-kumar-27/blob/main/Assets/Border2.gif" alt="Border2" width="1100">
 
 ## 📫 Connect With Me
 
 <div align="center">
- <a href="mailto:mayankkumar.27062007@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+<a href="<a href="mailto:mayankkumar.27062007@gmail.com">
+  <img src="https://github.com/mayank-kumar-27/mayank-kumar-27/blob/main/Assets/Gmail.gif" alt="Gmail" width="100"px/>
 </a>
 <a href="https://www.linkedin.com/in/kumarmayankupes" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://github.com/mayank-kumar-27/mayank-kumar-27/blob/main/Assets/Linkedin.gif" alt="LinkedIn" width="100"px/>
 </a>
 </div>
+
+<img src="https://github.com/mayank-kumar-27/mayank-kumar-27/blob/main/Assets/Border2.gif" alt="Border2" width="1100">
 
 ## ✨ Quote of the Day
 
