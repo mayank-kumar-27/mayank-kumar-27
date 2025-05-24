@@ -32,13 +32,16 @@
 
 <div align="center">
   
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+<img src="https://github.com/mayank-kumar-27/mayank-kumar-27/blob/main/Assets/C.gif" alt="C" width="100px">
+<img src="https://github.com/mayank-kumar-27/mayank-kumar-27/blob/main/Assets/python.gif" alt="Python" width="100px">
+<img src="https://github.com/mayank-kumar-27/mayank-kumar-27/blob/main/Assets/JS.gif" alt="js" width="100px">
+<img src="https://github.com/mayank-kumar-27/mayank-kumar-27/blob/main/Assets/HTML.gif" alt="HTML" width="100px">
+<img src="https://github.com/mayank-kumar-27/mayank-kumar-27/blob/main/Assets/CSS.gif" alt="CSS" width="100px">
+<img src="https://github.com/mayank-kumar-27/mayank-kumar-27/blob/main/Assets/React.gif" alt="React" width="100px">
+<img src="https://github.com/mayank-kumar-27/mayank-kumar-27/blob/main/Assets/Git.gif" alt="Git" width="100px">
+<img src="https://github.com/mayank-kumar-27/mayank-kumar-27/blob/main/Assets/Github.gif" alt="Github" width="100px">
+<img src="https://github.com/mayank-kumar-27/mayank-kumar-27/blob/main/Assets/VS_Code.gif" alt="VS_Code" width="100px">
+<img src="https://github.com/mayank-kumar-27/mayank-kumar-27/blob/main/Assets/UBUNTU.gif" alt="UBUNTU" width="100px">
 
 </div>
 
