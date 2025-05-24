@@ -11,8 +11,6 @@
 </div>
 
 <img src="https://github.com/mayank-kumar-27/mayank-kumar-27/blob/main/Assets/Border2.gif" alt="Border2" width="1100">
-<h1 align="center"><img src="https://github.com/mayank-kumar-27/mayank-kumar-27/blob/main/Assets/About.gif" alt="Banner" width="60px">About Me </h1>
-<img src="https://github.com/mayank-kumar-27/mayank-kumar-27/blob/main/Assets/Border2.gif" alt="Border2" width="1100">
 
 - 🎓 Currently pursuing Computer Science from UPES
 - 🌱 Learning Data Structures & Algorithms, C, Python, and JavaScript
@@ -22,11 +20,9 @@
 
 <img src="https://github.com/mayank-kumar-27/mayank-kumar-27/blob/main/Assets/Border2.gif" alt="Border2" width="1100">
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Projects & Portfolio
+<h2> <img src="https://github.com/mayank-kumar-27/mayank-kumar-27/blob/main/Assets/Project.gif" width="50px"> Projects & Portfolio </h2>
 
-<a href="https://mayank-kumar-portfolio.vercel.app/">
-  <img align="center" src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" />
-</a>
+<strong>Personal Portfolio</strong> <a href="https://mayank-kumar-portfolio.vercel.app/">https://mayank-kumar-portfolio.vercel.app/</a>
 
 ### Featured Projects:
 - 🚑 Disaster Response Training Tool - A tool to train volunteers for disaster management
