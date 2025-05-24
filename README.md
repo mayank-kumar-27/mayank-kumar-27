@@ -102,7 +102,7 @@
   <a href="mailto:mayankkumar.27062007@gmail.com">
     <img src="https://github.com/mayank-kumar-27/mayank-kumar-27/blob/main/Assets/Gmail.png" alt="Gmail" width="90px"/>
   </a>
-  <a href="https://www.linkedin.com/in/kumarmayankupes" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/mayankkumarupes" target="_blank" rel="noopener noreferrer">
     <img src="https://github.com/mayank-kumar-27/mayank-kumar-27/blob/main/Assets/Linkedin.gif" alt="LinkedIn" width="100px"/>
   </a>
 </div>
