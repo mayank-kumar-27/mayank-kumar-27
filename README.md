@@ -18,6 +18,7 @@
 ## 🚀 About Me
 
 - 🎓 Computer Science Student at **UPES**
+- 🔷 **Technical Head** at **UPES ACM Chapter**
 - 🌱 Currently mastering **Data Structures & Algorithms**, **C**, **Python**, and **JavaScript**
 - 💡 Passionate about building **innovative solutions** that make a real difference
 - 🧑‍🏫 Dedicated **mentor** helping juniors master coding fundamentals
