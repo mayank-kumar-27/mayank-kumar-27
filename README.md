@@ -1,3 +1,5 @@
+<!-- Andi Mandi Sandi, Jisne Copy kra uski .... -->
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:3B82F6,100:06B6D4&height=120&section=header" width="100%"/>
 </div>
