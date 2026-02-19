@@ -1,11 +1,11 @@
 <!-- Andi Mandi Sandi, Jisne Copy kra uski .... -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:3B82F6,100:06B6D4&height=120&section=header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:74483f,50:dcdedd,100:4b4643&height=120&section=header" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="assets/banner.jpg" alt="Mayank Kumar Banner" width="100%"/>
+  <img src="assets/gifs/banner.jpg" alt="Mayank Kumar Banner" width="100%"/>
 </div>
 
 <br/>
@@ -19,37 +19,37 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Student;Full+Stack+Enthusiast;Problem+Solver;ML+%26+Data+Science&font=Fira%20Code&center=true&width=440&height=45&color=7C3AED&vCenter=true&size=22&pause=1000&duration=3000">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Student;Full+Stack+Enthusiast;Problem+Solver;ML+%26+Data+Science&font=Fira%20Code&center=true&width=440&height=45&color=74483f&vCenter=true&size=22&pause=1000&duration=3000">
 </p>
 
 <br/>
 
 <div align="center">
   <a href="https://mayank-kumar-portfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Explore-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-Explore-74483f?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/mayankkumarupes" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-74483f?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:mayankkumar.270607@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Say_Hello-74483f?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/mayank-kumar-27" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Follow-4b4643?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mayank-Kumar-27&label=Profile%20Views&color=7C3AED&style=for-the-badge">
+  <img src="https://komarev.com/ghpvc/?username=Mayank-Kumar-27&label=Profile%20Views&color=74483f&style=for-the-badge">
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/github/followers/mayank-kumar-27?label=Followers&style=for-the-badge&color=3B82F6&logo=github" />
+  <img src="https://img.shields.io/github/followers/mayank-kumar-27?label=Followers&style=for-the-badge&color=dcdedd&logo=github" />
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/github/stars/mayank-kumar-27?label=Stars&style=for-the-badge&color=06B6D4&logo=github" />
+  <img src="https://img.shields.io/github/stars/mayank-kumar-27?label=Stars&style=for-the-badge&color=4b4643&logo=github" />
 </div>
 
 <br/>
@@ -59,9 +59,9 @@
 <br/>
 
 <h2 align="center">
-  <img src="assets/a.gif" height="25"/>
+  <img src="assets/gifs/a.gif" height="25"/>
   &nbsp; About Me &nbsp;
-  <img src="assets/a.gif" height="25"/>
+  <img src="assets/gifs/a.gif" height="25"/>
 </h2>
 
 <br/>
@@ -97,7 +97,7 @@ class Developer:
 
 </td>
     <td width="45%" valign="middle" align="center">
-      <img src="assets/about.gif" alt="Coding Animation" width="95%"/>
+      <img src="assets/gifs/about.gif" alt="Coding Animation" width="95%"/>
     </td>
   </tr>
 </table>
@@ -109,9 +109,9 @@ class Developer:
 <br/>
 
 <h2 align="center">
-  <img src="assets/b.gif" height="24"/>
+  <img src="assets/gifs/b.gif" height="24"/>
   &nbsp; Tech Stack & Arsenal &nbsp;
-  <img src="assets/b.gif" height="24"/>
+  <img src="assets/gifs/b.gif" height="24"/>
 </h2>
 
 <br/>
@@ -291,21 +291,21 @@ class Developer:
 <br/>
 
 <h2 align="center">
-  <img src="https://img.shields.io/badge/📊-7C3AED?style=flat-square" />
+  <img src="https://img.shields.io/badge/📊-74483f?style=flat-square" />
   &nbsp; GitHub Performance Analytics &nbsp;
-  <img src="https://img.shields.io/badge/📊-7C3AED?style=flat-square" />
+  <img src="https://img.shields.io/badge/📊-74483f?style=flat-square" />
 </h2>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=mayank-kumar-27&theme=tokyonight&hide_border=true&border_radius=15" height="180" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=mayank-kumar-27&background=dcdedd&ring=74483f&fire=74483f&currStreakNum=4b4643&sideNums=4b4643&currStreakLabel=74483f&sideLabels=74483f&dates=4b4643&hide_border=true&border_radius=15" height="180" alt="GitHub Streak"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mayank-kumar-27&theme=tokyo-night&hide_border=true&area=true&radius=16" alt="Contribution Graph" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mayank-kumar-27&bg_color=dcdedd&color=4b4643&line=74483f&point=74483f&area_color=dcdedd&area=true&hide_border=true&radius=16" alt="Contribution Graph" width="95%"/>
 </div>
 
 <br/>
@@ -323,34 +323,34 @@ class Developer:
 <br/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Open_to_Internships_|_Collaborations_|_Open_Source_|_Technical_Discussions-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open_to_Internships_|_Collaborations_|_Open_Source_|_Technical_Discussions-74483f?style=for-the-badge" />
 </p>
 
 <br/>
 
 <p align="center">
   <a href="mailto:mayankkumar.270607@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-74483f?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/mayankkumarupes" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-74483f?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://mayank-kumar-portfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-74483f?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/mayank-kumar-27" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-4b4643?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://leetcode.com/Mayank-2007/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+    <img src="https://img.shields.io/badge/LeetCode-74483f?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://codeforces.com/profile/Mayank-2007" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
+    <img src="https://img.shields.io/badge/Codeforces-4b4643?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
   </a>
 </p>
 
@@ -368,5 +368,5 @@ class Developer:
 
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:3B82F6,100:06B6D4&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=18&fontColor=fff&animation=twinkling&fontAlignY=70" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:74483f,50:dcdedd,100:4b4643&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=18&fontColor=fff&animation=twinkling&fontAlignY=70" width="100%"/>
 </div>
