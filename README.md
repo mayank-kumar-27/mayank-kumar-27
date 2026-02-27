@@ -1,4 +1,4 @@
-
+<!-- Andi Mandi Sandi, jisne Copy kra.... -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:22D3EE&height=125&section=header&animation=fadeIn&fontAlignY=35" width="100%"/>
 </div>
