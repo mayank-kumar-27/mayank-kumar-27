@@ -161,7 +161,7 @@ class Developer:
     <tr>
       <td align="center" width="55%">
         <a href="https://leetcode.com/Mayank-2007/" target="_blank">
-          <img src="https://leetcard.jacoblin.cool/Mayank-2007?theme=nord&font=Fira%20Code&ext=heatmap&border=0&radius=10" alt="LeetCode Stats" width="400"/>
+          <img src="https://leetcard.jacoblin.cool/Mayank-2007?theme=nord&font=Fira_Code&ext=heatmap&cache=0" alt="LeetCode Stats" width="400"/>
         </a>
       </td>
       <td align="center" width="50%">
