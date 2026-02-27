@@ -81,7 +81,7 @@ class Developer:
             "🎧 Deep Focus Music",
             "🌙 Night Owl Coding",
             "☕ Coffee Enthusiast",
-            "🚀 Tech Explorer"
+            "🖥️ Tech Explorer"
         ]
 ```
 
