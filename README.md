@@ -1,72 +1,63 @@
-<!-- Andi Mandi Sandi, Jisne Copy kra uski .... -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:74483f,50:dcdedd,100:4b4643&height=120&section=header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:22D3EE&height=180&section=header&fontSize=60&fontColor=0F172A&animation=fadeIn&fontAlignY=35" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="assets/gifs/banner.jpg" alt="Mayank Kumar Banner" width="100%"/>
+  <img src="assets/gifs/banner.jpg" alt="Description" width="100%" style="border-radius: 10px; box-shadow: 0px 0px 20px rgba(56, 189, 248, 0.5);"/>
 </div>
 
 <br/>
 
-<h1 align="center">
-  Hi Everyone
-  <a target="_blank" href="#">
-    <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30" />
-  </a>
-  I'm Mayank Kumar
-</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Student;Full+Stack+Enthusiast;Problem+Solver;ML+%26+Data+Science&font=Fira%20Code&center=true&width=440&height=45&color=74483f&vCenter=true&size=22&pause=1000&duration=3000">
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Student;Full+Stack+Enthusiast;Problem+Solver;ML+%26+Data+Science&font=Fira%20Code&center=true&width=500&height=50&color=38BDF8&vCenter=true&size=24&pause=1000&duration=3000&background=00000000">
+</div>
 
 <br/>
 
 <div align="center">
   <a href="https://mayank-kumar-portfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Explore-74483f?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-Explore-38BDF8?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://www.linkedin.com/in/mayankkumarupes" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-74483f?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="mailto:mayankkumar.270607@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Say_Hello-74483f?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Say_Hello-FB923C?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://github.com/mayank-kumar-27" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow-4b4643?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mayank-Kumar-27&label=Profile%20Views&color=74483f&style=for-the-badge">
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/github/followers/mayank-kumar-27?label=Followers&style=for-the-badge&color=dcdedd&logo=github" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/github/stars/mayank-kumar-27?label=Stars&style=for-the-badge&color=4b4643&logo=github" />
+  <img src="https://komarev.com/ghpvc/?username=Mayank-Kumar-27&label=Profile%20Views&color=38BDF8&style=for-the-badge">
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/mayank-kumar-27?label=Followers&style=for-the-badge&color=22D3EE&logo=github" />
+  &nbsp;
+  <img src="https://img.shields.io/github/stars/mayank-kumar-27?label=Stars&style=for-the-badge&color=60A5FA&logo=github" />
 </div>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
 
 <br/>
 
 <h2 align="center">
-  <img src="assets/gifs/a.gif" height="25"/>
-  &nbsp; About Me &nbsp;
-  <img src="assets/gifs/a.gif" height="25"/>
+  <img src="assets/gifs/a.gif" height="30" style="vertical-align:middle"/>
+  &nbsp; <span style="color: #38BDF8;">About Me</span> &nbsp;
+  <img src="assets/gifs/a.gif" height="30" style="vertical-align:middle"/>
 </h2>
 
-<br/>
-
-<table align="center" border="0" cellspacing="0" cellpadding="0">
+<table align="center" border="0" cellspacing="0" cellpadding="0" width="90%">
   <tr>
     <td width="55%" valign="top">
 
@@ -75,209 +66,107 @@ class Developer:
     def __init__(self):
         self.name = "Mayank Kumar"
         self.role = "Computer Science Engineer"
-        self.college = "UPES, Dehradun"
+        self.location = "UPES, Dehradun"
 
-    def current_status(self):
+    def current_focus(self):
         return {
-            "learning": ["DSA", "Full Stack Development", "Machine Learning"],
-            "building": "Innovative solutions",
-            "mentoring": "Juniors in coding fundamentals",
-            "exploring": "Cutting-edge technologies",
-            "motto": "Clean code. Efficient solutions."
+            "learning": ["DSA", "Full Stack", "ML/AI"],
+            "building": "Scalable Applications",
+            "mentoring": "Junior Developers",
+            "passion": "Clean Code & Architecture"
         }
 
-    def fun_facts(self):
+    def lifestyle(self):
         return [
-            "🎧 Music + focus = faster debugging",
-            "🌙 Night hours, deep thinking",
-            "🥤 Cold drink–driven coding sessions",
-            "🧠 If it's clean and logical, it's intentional"
+            "🎧 Deep Focus Music",
+            "🌙 Night Owl Coding",
+            "☕ Coffee Enthusiast",
+            "🚀 Tech Explorer"
         ]
 ```
 
 </td>
     <td width="45%" valign="middle" align="center">
-      <img src="assets/gifs/about.gif" alt="Coding Animation" width="95%"/>
+      <img src="assets/gifs/about.gif" alt="Coding Animation" width="100%" style="border-radius: 10px;"/>
     </td>
   </tr>
 </table>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
 
 <br/>
 
 <h2 align="center">
-  <img src="assets/gifs/b.gif" height="24"/>
-  &nbsp; Tech Stack & Arsenal &nbsp;
-  <img src="assets/gifs/b.gif" height="24"/>
+  <img src="assets/gifs/b.gif" height="30" style="vertical-align:middle"/>
+  &nbsp; <span style="color: #38BDF8;">Tech Stack & Arsenal</span> &nbsp;
+  <img src="assets/gifs/b.gif" height="30" style="vertical-align:middle"/>
 </h2>
 
 <br/>
 
 <p align="center">
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
-    <img src="assets/logos/c.svg" width="48" title="C"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://isocpp.org/" target="_blank">
-    <img src="assets/logos/cpp.svg" width="48" title="C++"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.python.org/" target="_blank">
-    <img src="assets/logos/python.svg" width="48" title="Python"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.oracle.com/java/" target="_blank">
-    <img src="assets/logos/java.svg" width="48" title="Java"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="assets/logos/javascript.svg" width="48" title="JavaScript"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.r-project.org/" target="_blank">
-    <img src="assets/logos/r.svg" width="48" title="R"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.w3schools.com/sql/" target="_blank">
-    <img src="assets/logos/sql.svg" width="48" title="SQL"/>
-  </a>
-  <a href="https://react.dev/" target="_blank">
-    <img src="assets/logos/react.svg" width="48" title="React"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="assets/logos/html5.svg" width="48" title="HTML5"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="assets/logos/css3.svg" width="48" title="CSS3"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="assets/logos/tailwindcss.svg" width="48" title="Tailwind CSS"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://getbootstrap.com/" target="_blank">
-    <img src="assets/logos/bootstrap.svg" width="48" title="Bootstrap"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.framer.com/motion/" target="_blank">
-    <img src="assets/logos/framer.svg" width="48" title="Framer Motion"/>
-  </a>
-  <a href="https://nodejs.org/" target="_blank">
-    <img src="assets/logos/nodejs.svg" width="48" title="Node.js"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://expressjs.com/" target="_blank">
-    <img src="assets/logos/express.svg" width="48" title="Express.js"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="assets/logos/mongodb.svg" width="48" title="MongoDB"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.postgresql.org/" target="_blank">
-    <img src="assets/logos/postgresql.svg" width="48" title="PostgreSQL"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="assets/logos/git.svg" width="48" title="Git"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/" target="_blank">
-    <img src="assets/logos/github.svg" width="48" title="GitHub"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="assets/logos/docker.svg" width="48" title="Docker"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank">
-    <img src="assets/logos/pandas.svg" width="48" title="Pandas"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://numpy.org/" target="_blank">
-    <img src="assets/logos/numpy.svg" width="48" title="NumPy"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://matplotlib.org/" target="_blank">
-    <img src="assets/logos/matplotlib.svg" width="48" title="Matplotlib"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.tensorflow.org/" target="_blank">
-    <img src="assets/logos/tensorflow.svg" width="48" title="TensorFlow"/>
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="assets/logos/vscode.svg" width="48" title="VS Code"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="assets/logos/linux.svg" width="48" title="Linux"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.microsoft.com/windows" target="_blank">
-    <img src="assets/logos/windows.svg" width="48" title="Windows"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.figma.com/" target="_blank">
-    <img src="assets/logos/figma.svg" width="48" title="Figma"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.canva.com/" target="_blank">
-    <img src="assets/logos/canva.svg" width="48" title="Canva"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.notion.so/" target="_blank">
-    <img src="assets/logos/notion.svg" width="48" title="Notion"/>
-  </a>
-  <a href="https://reactrouter.com/" target="_blank">
-    <img src="assets/logos/reactrouter.svg" width="48" title="React Router"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://threejs.org/" target="_blank">
-    <img src="assets/logos/threejs.svg" width="48" title="Three.js"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.chartjs.org/" target="_blank">
-    <img src="assets/logos/chartjs.svg" width="48" title="Chart.js"/>
-  </a>
+  <!-- Languages -->
+  <a href="#"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/></a>
+  <!-- Frontend -->
+  <br/>
+  <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white"/></a>
+  <!-- Backend -->
+  <br/>
+  <a href="#"><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/></a>
+  <!-- Tools/AI -->
+  <br/>
+  <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/></a>
 </p>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
 
 <br/>
 
 <h2 align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" height="25"/>
-  &nbsp; Platforms I'm Consistently Improving On &nbsp;
-  <img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" height="25"/>
+  <img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" height="30" style="vertical-align:middle"/>
+  &nbsp; <span style="color: #38BDF8;">Problem Solving & DSA</span> &nbsp;
+  <img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" height="30" style="vertical-align:middle"/>
 </h2>
 
 <br/>
 
 <div align="center">
-  <table>
+  <table border="0">
     <tr>
-      <th align="center">
-        <img src="https://img.shields.io/badge/🟡_LeetCode-FFA116?style=for-the-badge&logoColor=black" />
-      </th>
-      <th align="center">
-        <img src="https://img.shields.io/badge/🔵_Codeforces-1F8ACB?style=for-the-badge&logoColor=white" />
-      </th>
-    </tr>
-    <tr>
-      <td align="center">
+      <td align="center" width="50%">
         <a href="https://leetcode.com/Mayank-2007/" target="_blank">
-          <img src="https://leetcard.jacoblin.cool/Mayank-2007?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=20" alt="LeetCode Stats" width="420"/>
+          <img src="https://leetcard.jacoblin.cool/Mayank-2007?theme=nord&font=Fira%20Code&ext=heatmap&border=0&radius=10" alt="LeetCode Stats" width="400"/>
         </a>
       </td>
-      <td align="center">
-        <a href="https://codeforces.com/profile/Mayank-2007" target="_blank">
-          <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Mayank-2007&theme=dark" alt="Codeforces Stats" width="420"/>
+      <td align="center" width="50%">
+         <a href="https://codeforces.com/profile/Mayank-2007" target="_blank">
+          <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Mayank-2007&theme=nord&disable_animations=false" alt="Codeforces Stats" width="400"/>
         </a>
       </td>
     </tr>
@@ -286,73 +175,61 @@ class Developer:
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
 
 <br/>
 
 <h2 align="center">
-  <img src="https://img.shields.io/badge/📊-74483f?style=flat-square" />
-  &nbsp; GitHub Performance Analytics &nbsp;
-  <img src="https://img.shields.io/badge/📊-74483f?style=flat-square" />
+  <img src="https://img.shields.io/badge/GitHub-Performance-38BDF8?style=flat&logo=github" />
 </h2>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=mayank-kumar-27&background=dcdedd&ring=74483f&fire=74483f&currStreakNum=4b4643&sideNums=4b4643&currStreakLabel=74483f&sideLabels=74483f&dates=4b4643&hide_border=true&border_radius=15" height="180" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=mayank-kumar-27&theme=tokyonight&background=0F172A&ring=38BDF8&fire=22D3EE&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=38BDF8&sideLabels=38BDF8&dates=94A3B8&hide_border=true&border_radius=10" height="180" alt="GitHub Streak"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mayank-kumar-27&bg_color=dcdedd&color=4b4643&line=74483f&point=74483f&area_color=dcdedd&area=true&hide_border=true&radius=16" alt="Contribution Graph" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mayank-kumar-27&bg_color=0F172A&color=E6EDF3&line=38BDF8&point=22D3EE&area_color=1E293B&area=true&hide_border=true&radius=10" alt="Contribution Graph" width="95%"/>
 </div>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
 
 <br/>
 
 <h2 align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" height="25"/>
-  &nbsp; Let's Connect & Collaborate! &nbsp;
-  <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" height="25"/>
+  <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" height="30" style="vertical-align:middle"/>
+  &nbsp; <span style="color: #38BDF8;">Lets Connect</span> &nbsp;
+  <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" height="30" style="vertical-align:middle"/>
 </h2>
 
 <br/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Open_to_Internships_|_Collaborations_|_Open_Source_|_Technical_Discussions-74483f?style=for-the-badge" />
-</p>
-
-<br/>
-
-<p align="center">
+<div align="center">
   <a href="mailto:mayankkumar.270607@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-74483f?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://www.linkedin.com/in/mayankkumarupes" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-74483f?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://mayank-kumar-portfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-74483f?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-2496ED?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://github.com/mayank-kumar-27" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-4b4643?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://leetcode.com/Mayank-2007/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-74483f?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://codeforces.com/profile/Mayank-2007" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-4b4643?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
-  </a>
-</p>
+</div>
 
 <br/>
 
@@ -362,11 +239,6 @@ class Developer:
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:74483f,50:dcdedd,100:4b4643&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=18&fontColor=fff&animation=twinkling&fontAlignY=70" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:38BDF8&height=100&section=footer&text=Thanks%20for%20Visiting!&fontSize=20&fontColor=ffffff&fontAlignY=50" width="100%"/>
 </div>
